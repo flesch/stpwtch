@@ -1,0 +1,24 @@
+{
+  "name": "clck",
+  "version": "1.0.0",
+  "description": "Very tiny duration utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flesch/clck.js"
+  },
+  "keywords": [
+    "clock",
+    "duration",
+    "profile"
+  ],
+  "author": "John Flesch <john@fles.ch> (http://fles.ch/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flesch/clck.js/issues"
+  },
+  "homepage": "https://github.com/flesch/clck.js"
+}
