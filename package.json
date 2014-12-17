@@ -1,6 +1,6 @@
 {
   "name": "clck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very tiny duration utility.",
   "main": "index.js",
   "scripts": {
