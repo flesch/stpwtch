@@ -4,6 +4,8 @@ var assert = require('assert')
 
 clck.start('test');
 
+assert.equal(Object.keys(clck.timers).length, 1, "clck.timers failed");
+
 setTimeout(function(){  
   assert.equal(Math.floor(clck.time('test')/1000), 1, "clck.time('test') failed");
 }, 1000);

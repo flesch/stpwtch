@@ -9,6 +9,8 @@ exports.time = function(id){
   return Date.now() - timers[id];
 };
 
+exports.timers = timers;
+
 exports.stop = function(id, callback){
   var start = timers[id];
   delete timers[id];

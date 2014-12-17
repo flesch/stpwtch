@@ -10,6 +10,9 @@ var clock = require('clck');
 // Start the timer.
 clock.start('test');
 
+// All the timers we've started are exposed via
+// console.log(clock.timers);
+
 // After a while, check how long it's been.
 setTimeout(function(){
   console.log('"test" has been running for %d milliseconds', clock.time('test'));
