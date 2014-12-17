@@ -1,4 +1,4 @@
-# clck.js
+# clck.js [![Build Status](https://travis-ci.org/flesch/clck.js.svg?branch=master)](https://travis-ci.org/flesch/clck.js)
 
 ```bash
 $ npm install --save clck
