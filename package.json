@@ -1,0 +1,28 @@
+{
+  "name": "stpwtch",
+  "description": "Very tiny duration utility.",
+  "version": "1.0.0",
+  "author": "John Flesch <john@fles.ch> (http://fles.ch/)",
+  "bugs": {
+    "url": "https://github.com/flesch/stpwtch/issues"
+  },
+  "homepage": "https://github.com/flesch/stpwtch",
+  "keywords": [
+    "clock",
+    "duration",
+    "profile",
+    "start",
+    "stop",
+    "stopwatch",
+    "time",
+    "timeEnd",
+    "timer",
+    "watch"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flesch/stpwtch"
+  }
+}
